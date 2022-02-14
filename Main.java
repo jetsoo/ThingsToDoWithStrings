@@ -12,7 +12,6 @@ public class Main {
         String test = scan.nextLine();
 
         System.out.println(reverseString(test));
-        System.out.println(test);
         System.out.println(isAnagram(test));
         System.out.println(mostChars(test));
         findSubString(test,"end");
